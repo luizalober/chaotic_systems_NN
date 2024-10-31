@@ -3,8 +3,8 @@ from PIL import Image
 import glob
 
 # Configuration variables
-#image_folder = "/home/palmero/Work/codes-posdoc/rec_plots_chaotic_systems/results/test/standard/order=9/delta=1.00"
-image_folder = "/home/palmero/Work/codes-posdoc/rec_plots_chaotic_systems/results/test/logistic/x0=0.10"
+#image_folder = "results/test/standard/order=9/delta=1.00"
+image_folder = "results/test/logistic/x0=0.10"
 #fGIF = "standard.gif"
 fGIF = "logistic.gif"
 H = 100  # Height in pixels
