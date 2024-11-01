@@ -7,4 +7,6 @@ Notebooks .ipynb are responsible for the Convolutional Neural Network (CNN) part
 
 making_gif.py produces the GIFs uploaded to the supplemental material.
 
+Pre-print available at: https://arxiv.org/abs/2410.23408
+
 Correspondence: ¹luiza.lober@usp.br; ²palmero@usp.br
